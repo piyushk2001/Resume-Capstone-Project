@@ -1,0 +1,15 @@
+.photo {
+  float: right;
+}
+.photo img {
+  height: 350px;
+}
+.photo h3,
+figcaption {
+  position: relative;
+  left: 25%;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+}
